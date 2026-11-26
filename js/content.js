@@ -7,12 +7,12 @@
 const siteContent = {
   mainLetter: "Hoje é o seu dia, e eu não poderia deixar passar sem preparar algo especial. Quero que você saiba o quanto sua amizade é importante e o quanto sou feliz por ter tantas lembranças com você. Que nunca faltem motivos para sorrir, sonhos para realizar e pessoas que torçam por você. Você merece um mundo de coisas bonitas!",
   photos: [
-    { src: "assets/fotos/foto-1.jpg", caption: "um momento nosso ♡" },
-    { src: "assets/fotos/foto-2.jpg", caption: "daqueles para guardar" },
-    { src: "assets/fotos/foto-3.jpg", caption: "risadas que ficam" },
-    { src: "assets/fotos/foto-4.jpg", caption: "mais uma memória linda" },
-    { src: "assets/fotos/foto-5.jpg", caption: "um dia especial" },
-    { src: "assets/fotos/foto-6.jpg", caption: "nós duas / nós dois ♡" }
+    { src: "assets/fotos/foto-1.jpeg", caption: "um momento nosso ♡" },
+    { src: "assets/fotos/foto-2.jpeg", caption: "daqueles para guardar" },
+    { src: "assets/fotos/foto-3.jpeg", caption: "risadas que ficam" },
+    { src: "assets/fotos/foto-7.jpeg", caption: "mais uma memória linda" },
+    { src: "assets/fotos/foto-5.jpeg", caption: "um dia especial" },
+    { src: "assets/fotos/foto-6.jpeg", caption: "nós duas / nós dois ♡" }
   ],
   notes: [
     { title: "O quanto você é especial", body: "Stella, você tem um jeitinho único de tornar os momentos mais leves. Espero que nunca duvide do quanto é querida e especial." },
