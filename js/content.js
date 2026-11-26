@@ -1,9 +1,4 @@
-/*
-  PERSONALIZE AQUI!
-  - Troque os textos das cartinhas e dos motivos.
-  - Para as fotos, coloque seus arquivos na pasta assets/fotos/
-    e use os nomes foto-1.jpg, foto-2.jpg ... foto-6.jpg.
-*/
+
 const siteContent = {
   mainLetter: "Hoje é o seu dia, e eu não poderia deixar passar sem preparar algo especial. Quero que você saiba o quanto sua amizade é importante e o quanto sou feliz por ter tantas lembranças com você. Que nunca faltem motivos para sorrir, sonhos para realizar e pessoas que torçam por você. Você merece um mundo de coisas bonitas!",
   photos: [
