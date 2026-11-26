@@ -10,9 +10,9 @@ const siteContent = {
     { src: "assets/fotos/foto-1.jpeg", caption: "um momento nosso ♡" },
     { src: "assets/fotos/foto-2.jpeg", caption: "daqueles para guardar" },
     { src: "assets/fotos/foto-3.jpeg", caption: "risadas que ficam" },
-    { src: "assets/fotos/foto-7.jpeg", caption: "mais uma memória linda" },
-    { src: "assets/fotos/foto-5.jpeg", caption: "um dia especial" },
-    { src: "assets/fotos/foto-6.jpeg", caption: "nós duas / nós dois ♡" }
+    { src: "assets/fotos/foto-5.jpeg", caption: "mais uma memória linda" },
+    { src: "assets/fotos/foto-6.jpeg", caption: "um dia especial" },
+    { src: "assets/fotos/foto-7.jpeg", caption: "nós duas / nós dois ♡" }
   ],
   notes: [
     { title: "O quanto você é especial", body: "Stella, você tem um jeitinho único de tornar os momentos mais leves. Espero que nunca duvide do quanto é querida e especial." },
