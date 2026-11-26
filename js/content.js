@@ -1,6 +1,6 @@
 
 const siteContent = {
-  mainLetter: "Hoje é o seu dia, e o dia fica um pouco mais bonito, eu não poderia deixar passar sem preparar algo especial e único. Quero que você saiba o quanto sua amizade é importante e o quanto sou feliz por ter tantas lembranças com você. Que nunca faltem motivos para sorrir, sonhos para realizar, abraços demorados e pessoas que torçam por você. Você merece um mundo de coisas bonitas!",
+  mainLetter: "Hoje o mundo fica um pouco mais bonito. Minha querida stella, tem pessoas que chegam e deixam a vida mais leve. Você é uma delas. Hoje é o seu dia, mas quem ganha o presente sou eu: a sorte de ter você na minha vida. Queria te parabenizar pelo seu caráter, pela mulher que esta se tornando e pelo esforço que vem fazendo. Você tem esse jeito bonito de transformar dias comuns em lembranças especiais, sua presença faz diferença, mesmo quando não percebe. Arrisco dizer que dia comuns com vc acabam sendo melhores do que um dos melhores dias da minha vida. Eu admiro sua inspiração, que nada mais são as pessoas que você considera e luta por elas. Isso te dá um gás pra você se superar cada vez mais. E isso é lindo! ",
   photos: [
     { src: "assets/fotos/foto-1.jpeg", caption: "😗 ♡" },
     { src: "assets/fotos/foto-2.jpeg", caption: "meu orgulho" },
